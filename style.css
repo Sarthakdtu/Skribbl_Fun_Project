@@ -10,6 +10,8 @@ body{
 	
 }
 
+
+
 footer{
 	color: white;
 	text-align: center;
@@ -128,4 +130,7 @@ hr{
   .heading_title {
     font-size: 50px;
   }
+.disp_none{
+	display:none;
+	}
  }
